@@ -2,10 +2,17 @@
 .row {
   width: 330px;
   margin: 0px auto;
+  padding-left: 0px;
   display: flex;
   list-style: none;
   flex-wrap: wrap;
-  /* border: 5px solid black; */
+
+}
+
+figure {
+  width: 330px;
+  border: 5px solid black;
+margin: auto;
 }
 
 .square {
