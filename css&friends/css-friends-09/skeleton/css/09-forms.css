@@ -1,0 +1,35 @@
+/* PHASE 9: Forms */
+.content-main {
+  display: flex;
+  /* justify-content: space-between; */
+  /* background: yellow; */
+
+}
+
+.content-main ul{
+float: left;
+margin-right: 40px;
+}
+
+.input {
+  background: #eee;
+  padding: 10px 50px;
+
+}
+
+.input input, textarea {
+  border: 1px solid black;
+  background-color: white;
+}
+
+.form-div {
+  width: 500px;
+  height: 900px;
+
+}
+
+.submit input {
+  padding: 5px 10px;
+  background-color: #0c0;
+  color: white;
+}
